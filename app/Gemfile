@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+
+gem 'daemons', '~> 1.2', '>= 1.2.2'
+gem "sinatra", :require => "sinatra/base"
+gem 'thin', '~> 1.7'
